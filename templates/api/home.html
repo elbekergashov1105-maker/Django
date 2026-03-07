@@ -1,0 +1,28 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <style>
+        h1{
+            color: rgb(0, 255, 200);
+        }
+        body{
+            background-image: url("/static/images/fomm.jpg");
+            /* background-color: bisque; */
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+    <h1>Hayvonlar haqida ma'lumot!! {{ ism }}</h1>
+    <br>
+    <a href="{% url 'about' %}"><button type="submit">About</button></a>
+    <a href="{% url 'posts' %}"><button>Postlar</button></a>
+
+</body>
+</html>

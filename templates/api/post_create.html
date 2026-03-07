@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Yangi qo'shish</h1>
+    {% if error %}
+        <h2>{{ error }}</h2>
+    {% endif %}
+
+    <form method="POST">
+        {% csrf_token %}
+        <label type="text">Title</label>
+        <input type="text" name="title"><br><br>
+        <label type="text">Content</label>
+        <input type="text" name="content"><br><br>
+        <label type="text">Author</label>
+        <input type="text" name="author"><br><br>
+        <button type="submit">Saqlash</button>
+    </form>
+    <a href="{% url 'posts' %}">Postlarga qaytish</a><br>
+    
+
+
+
+</body>
+</html>

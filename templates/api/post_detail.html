@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="{% url 'posts' %}">Postlarga qaytish</a><br>
+    <h1>{{ post.title }}</h1>
+    <p>{{ post.content }}</p>
+    <p>{{ post.author }}</p>
+    <small>{{ post.created_at }}</small>
+    <br>
+    <a href="{% url 'post_update' post.id %}">Postni tahrirlash</a><br>
+    <a href="{% url 'post_delete' post.id %}">Postni o'chirish</a><br>
+
+
+</body>
+</html>

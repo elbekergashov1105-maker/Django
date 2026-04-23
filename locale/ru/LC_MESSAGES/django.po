@@ -1,0 +1,338 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-06 12:43+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\config\settings.py:111
+msgid "Uzbek"
+msgstr "Узбекский"
+
+#: .\config\settings.py:112
+msgid "English"
+msgstr "Английский"
+
+#: .\config\settings.py:113
+msgid "Russian"
+msgstr "Русский"
+
+#: .\templates\api\home.html:25
+msgid "Postlarni ko'rish"
+msgstr "Просмотреть публикации"
+
+#: .\templates\api\home.html:27
+msgid "Tizimdan chiqish"
+msgstr "Выйти"
+
+#: .\templates\api\home.html:29
+msgid "Tizimga kirish"
+msgstr "Войти"
+
+#: .\templates\api\home.html:30 .\templates\api\index.html:31
+msgid "Ro'yxatdan o'tish"
+msgstr "Регистрация"
+
+#: .\templates\api\index.html:17
+msgid "Shop"
+msgstr "Магазин"
+
+#: .\templates\api\index.html:25
+msgid "Asosiy"
+msgstr "Главная"
+
+#: .\templates\api\index.html:28
+msgid "Mahsulotlar"
+msgstr "Товары"
+
+#: .\templates\api\index.html:35
+msgid "Tillar"
+msgstr ""
+
+#: .\templates\api\index.html:69
+msgid "Kategoriyalar"
+msgstr "Категории"
+
+#: .\templates\api\index.html:71
+msgid "Texnika"
+msgstr "Техника"
+
+#: .\templates\api\index.html:73
+msgid "Kiyimlar"
+msgstr "Одежда"
+
+#: .\templates\api\index.html:75
+msgid "Mashina"
+msgstr "Машины"
+
+#: .\templates\api\index.html:77
+msgid "Oziq-ovqat"
+msgstr "Еда"
+
+#: .\templates\api\index.html:79
+msgid "Ish"
+msgstr "Работа"
+
+#: .\templates\api\index.html:84
+msgid "iPhone to'plamlari"
+msgstr "Коллекции iPhone"
+
+#: .\templates\api\index.html:90
+msgid "iPhone 17e"
+msgstr "iPhone 17e"
+
+#: .\templates\api\index.html:91
+msgid ""
+"iPhone 17e — Applening 2026-yilda taqdim etilgan “byudjet” modeli bo‘lib, u "
+"6.1 dyuymli Super Retina XDR OLED displey, A19 chip va 48 MP kamera tizimi "
+"bilan jihozlangan."
+msgstr ""
+"iPhone 17e — бюджетная модель Apple, представленная в 2026 году, оснащена "
+"6.1-дюймовым дисплеем Super Retina XDR OLED, чипом A19 и системой камер 48 "
+"МП."
+
+#: .\templates\api\index.html:104
+msgid "iPhone 16"
+msgstr "iPhone 16"
+
+#: .\templates\api\index.html:105
+msgid ""
+"iPhone 16 — Apple’ning 2024-yilda taqdim etilgan flagman modeli bo‘lib, u "
+"6.1 dyuymli Super Retina XDR OLED displey, A18 chip va 48 MP kamera tizimi "
+"bilan jihozlangan."
+msgstr ""
+"iPhone 16 — флагманская модель Apple, представленная в 2024 году, оснащена "
+"6.1-дюймовым дисплеем Super Retina XDR OLED, чипом A18 и системой камер 48 "
+"МП."
+
+#: .\templates\api\index.html:118 .\templates\api\index.html:134
+msgid "iPhone 17 Pro Max"
+msgstr "iPhone 17 Pro Max"
+
+#: .\templates\api\index.html:119
+msgid ""
+"iPhone 17 Pro Max — Applening eng so‘nggi flagman modeli bo‘lib, u 6.9 "
+"dyuymli Super Retina XDR displey, A19 Pro chip va 48 MP kamera tizimi bilan "
+"jihozlangan."
+msgstr ""
+"iPhone 17 Pro Max — последний флагман Apple, оснащён 6.9-дюймовым дисплеем "
+"Super Retina XDR, чипом A19 Pro и системой камер 48 МП."
+
+#: .\templates\api\index.html:135
+msgid ""
+"iPhone 17 Pro Max Silver — Applening eng so‘nggi flagman modeli bo‘lib, u "
+"6.9 dyuymli Super Retina XDR displey, A19 Pro chip va 48 MP kamera tizimi "
+"bilan jihozlangan. "
+msgstr ""
+"iPhone 17 Pro Max Silver — последний флагман Apple, оснащён 6.9-дюймовым "
+"дисплеем Super Retina XDR, чипом A19 Pro и системой камер 48 МП."
+
+#: .\templates\api\index.html:148
+msgid "iPhone 14 Pro"
+msgstr "iPhone 14 Pro"
+
+#: .\templates\api\index.html:149
+msgid ""
+"iPhone 14 Pro — Applening 2022-yilda taqdim etilgan flagman modeli bo‘lib, u "
+"6.1 dyuymli Super Retina XDR displey, A16 Bionic chip va 48 MP kamera tizimi "
+"bilan jihozlangan."
+msgstr ""
+"iPhone 14 Pro — флагманская модель Apple, представленная в 2022 году, "
+"оснащена 6.1-дюймовым дисплеем Super Retina XDR, чипом A16 Bionic и системой "
+"камер 48 МП."
+
+#: .\templates\api\index.html:162
+msgid "iPhone 15"
+msgstr "iPhone 15"
+
+#: .\templates\api\index.html:163
+msgid ""
+"iPhone 15 — Applening 2023-yilda taqdim etilgan flagman modeli bo‘lib, u 6.1 "
+"dyuymli Super Retina XDR displey, A16 Bionic chip va 48 MP kamera tizimi "
+"bilan jihozlangan."
+msgstr ""
+"iPhone 15 — флагманская модель Apple, представленная в 2023 году, оснащена "
+"6.1-дюймовым дисплеем Super Retina XDR, чипом A16 Bionic и системой камер 48 "
+"МП."
+
+#: .\templates\api\index.html:178
+msgid "Bizning hamkorlar"
+msgstr "Наши партнеры"
+
+#: .\templates\api\index.html:195
+msgid "Samsung to'plamlari"
+msgstr "Коллекции Samsung"
+
+#: .\templates\api\index.html:201
+msgid "Samsung Galaxy S24 Ultra"
+msgstr "Samsung Galaxy S24 Ultra"
+
+#: .\templates\api\index.html:202
+msgid ""
+"Samsung Galaxy S24 Ultra — Samsung’ning 2024-yilda taqdim etilgan flagman "
+"modeli bo‘lib, u 6.8 dyuymli Dynamic AMOLED 2X displey, Snapdragon 8 Gen 3 "
+"chip va 200 MP kamera tizimi bilan jihozlangan."
+msgstr ""
+"Samsung Galaxy S24 Ultra — флагманская модель Samsung, представленная в 2024 "
+"году, оснащена 6.8-дюймовым дисплеем Dynamic AMOLED 2X, чипом Snapdragon 8 "
+"Gen 3 и системой камер 200 МП."
+
+#: .\templates\api\index.html:215
+msgid "Samsung Galaxy S26 Ultra"
+msgstr "Samsung Galaxy S26 Ultra"
+
+#: .\templates\api\index.html:216
+msgid ""
+"Samsung Galaxy S26 Ultra — Samsung’ning 2026-yilda taqdim etilgan eng kuchli "
+"flagman modeli bo‘lib, u 6.9 dyuymli Dynamic AMOLED 2X displey, Snapdragon 8 "
+"Elite Gen 5 chip va 200 MP asosiy kamera tizimi bilan jihozlangan."
+msgstr ""
+"Samsung Galaxy S26 Ultra — самый мощный флагман Samsung, представленный в "
+"2026 году, оснащён 6.9-дюймовым дисплеем Dynamic AMOLED 2X, чипом Snapdragon "
+"8 Elite Gen 5 и основной камерой 200 МП."
+
+#: .\templates\api\index.html:229
+msgid "Samsung Galaxy A35"
+msgstr "Samsung Galaxy A35"
+
+#: .\templates\api\index.html:230
+msgid ""
+"Samsung Galaxy A35 — Samsung’ning 2024-yilda taqdim etilgan o‘rta narx "
+"segmentidagi modeli bo‘lib, u 6.6 dyuymli Super AMOLED displey, Exynos 1380 "
+"chip va 50 MP kamera tizimi bilan jihozlangan."
+msgstr ""
+"Samsung Galaxy A35 — модель среднего ценового сегмента Samsung, "
+"представленная в 2024 году, оснащена 6.6-дюймовым дисплеем Super AMOLED, "
+"чипом Exynos 1380 и системой камер 50 МП."
+
+#: .\templates\api\index.html:243
+msgid "Samsung Galaxy Z Fold"
+msgstr "Samsung Galaxy Z Fold"
+
+#: .\templates\api\index.html:244
+msgid ""
+"Samsung Galaxy Z Fold — Samsung’ning bukiladigan ekranli flagman smartfonlar "
+"seriyasi bo‘lib, u innovatsion dizayn va kuchli texnik imkoniyatlari bilan "
+"ajralib turadi."
+msgstr ""
+"Samsung Galaxy Z Fold — серия флагманских смартфонов Samsung с гибким "
+"экраном, отличающаяся инновационным дизайном и мощными техническими "
+"возможностями."
+
+#: .\templates\api\index.html:257
+msgid "Samsung Galaxy S23"
+msgstr "Samsung Galaxy S23"
+
+#: .\templates\api\index.html:258
+msgid ""
+"Samsung Galaxy S23 — Samsung’ning 2023-yilda taqdim etilgan flagman modeli "
+"bo‘lib, u 6.1 dyuymli Dynamic AMOLED 2X displey, Snapdragon 8 Gen 2 chip va "
+"50 MP kamera tizimi bilan jihozlangan."
+msgstr ""
+"Samsung Galaxy S23 — флагманская модель Samsung, представленная в 2023 году, "
+"оснащена 6.1-дюймовым дисплеем Dynamic AMOLED 2X, чипом Snapdragon 8 Gen 2 и "
+"системой камер 50 МП."
+
+#: .\templates\api\index.html:272
+msgid "Samsung Galaxy S26"
+msgstr "Samsung Galaxy S26"
+
+#: .\templates\api\index.html:273
+msgid ""
+"Samsung Galaxy S26 — Samsung’ning 2026-yilda taqdim etilgan yangi flagman "
+"modeli bo‘lib, u 6.3 dyuymli AMOLED displey, Snapdragon 8 Elite Gen 5 chip "
+"va Galaxy AI funksiyalari bilan jihozlangan."
+msgstr ""
+"Samsung Galaxy S26 — новый флагман Samsung, представленный в 2026 году, "
+"оснащён 6.3-дюймовым дисплеем AMOLED, чипом Snapdragon 8 Elite Gen 5 и "
+"функциями Galaxy AI."
+
+#: .\templates\api\index.html:292
+msgid "Bizda barcha mahsulotlar arzon"
+msgstr "У нас все товары по доступным ценам"
+
+#: .\templates\api\index.html:298
+msgid "Biz bilan bog'laning"
+msgstr "Свяжитесь с нами"
+
+#: .\templates\api\index.html:305
+msgid "Formani to'liq to'ldiring"
+msgstr "Заполните форму полностью"
+
+#: .\templates\api\index.html:311
+msgid "Ism"
+msgstr "Имя"
+
+#: .\templates\api\index.html:315
+msgid "Telefon nomer"
+msgstr "Номер телефона"
+
+#: .\templates\api\index.html:321
+msgid "Ma'lumot yozing"
+msgstr "Введите сообщение"
+
+#: .\templates\api\index.html:326
+msgid "Barcha ma'lumotlar to'g'rimi"
+msgstr "Все данные верны"
+
+#: .\templates\api\index.html:331
+msgid "Orqaga"
+msgstr "Назад"
+
+#: .\templates\api\index.html:332
+msgid "Saqlash"
+msgstr "Сохранить"
+
+#: .\templates\api\index.html:344
+msgid "Oxirgi yangiliklar!"
+msgstr "Последние новости!"
+
+#: .\templates\api\index.html:345 .\templates\api\index.html:349
+#: .\templates\api\index.html:396 .\templates\api\index.html:403
+msgid ""
+"2026-yil boshidagi mahsulotlar va bozor yangiliklari texnologik "
+"innovatsiyalar, iste'mol tovarlari sifatining oshishi va sun'iy intellekt "
+"integratsiyasiga qaratilgan."
+msgstr ""
+"Продукты и рыночные обновления начала 2026 года сосредоточены на "
+"технологических инновациях, повышении качества потребительских товаров и "
+"интеграции искусственного интеллекта."
+
+#: .\templates\api\index.html:352
+msgid "Xabarni baholang"
+msgstr "Оцените сообщение"
+
+#: .\templates\api\index.html:384
+msgid "Birinchi"
+msgstr "Первый"
+
+#: .\templates\api\index.html:387
+msgid "Ikkinchi"
+msgstr "Второй"
+
+#: .\templates\api\index.html:410
+msgid "Biz haqimizda fikringiz "
+msgstr "Ваше мнение о нас"
+
+#: .\templates\api\index.html:414
+msgid "Yaxshi"
+msgstr "Хорошо"
+
+#: .\templates\api\index.html:420
+msgid "Yomon"
+msgstr "Плохо"

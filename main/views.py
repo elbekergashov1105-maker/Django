@@ -5,7 +5,13 @@ from django.db.models import Q
 from .models import Post 
 from django.contrib.auth.models import User
 from django.contrib.auth import authenticate, login, logout
+<<<<<<< HEAD
 from django.contrib.auth.decorators import login_required
+=======
+
+def index(request):
+    return render(request, 'api/index.html')
+>>>>>>> 7c627db (first commit)
 
 def home(request):
     context = {
@@ -14,6 +20,10 @@ def home(request):
     return render(request, 'api/home.html', context)
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7c627db (first commit)
 def about(request):
     return render(request, 'home/about.html')
 
@@ -100,4 +110,11 @@ def user_login(request):
 
 def user_logout(request):
     logout(request)
+<<<<<<< HEAD
     return redirect("home")
+=======
+    return redirect("login")
+
+def mahsulotlar(request):
+    return render(request, 'api/mahsulotlar.html')
+>>>>>>> 7c627db (first commit)

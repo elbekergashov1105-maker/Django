@@ -1,0 +1,333 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-06 12:43+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\config\settings.py:111
+msgid "Uzbek"
+msgstr "Uzbek"
+
+#: .\config\settings.py:112
+msgid "English"
+msgstr "English"
+
+#: .\config\settings.py:113
+msgid "Russian"
+msgstr "Russian"
+
+#: .\templates\api\home.html:25
+msgid "Postlarni ko'rish"
+msgstr "View posts"
+
+#: .\templates\api\home.html:27
+msgid "Tizimdan chiqish"
+msgstr "Log out"
+
+#: .\templates\api\home.html:29
+msgid "Tizimga kirish"
+msgstr "Login"
+
+#: .\templates\api\home.html:30 .\templates\api\index.html:31
+msgid "Ro'yxatdan o'tish"
+msgstr "Register"
+
+#: .\templates\api\index.html:17
+msgid "Shop"
+msgstr "Shop"
+
+#: .\templates\api\index.html:25
+msgid "Asosiy"
+msgstr "Home"
+
+#: .\templates\api\index.html:28
+msgid "Mahsulotlar"
+msgstr "Products"
+
+#: .\templates\api\index.html:35
+msgid "Tillar"
+msgstr ""
+
+#: .\templates\api\index.html:69
+msgid "Kategoriyalar"
+msgstr "Categories"
+
+#: .\templates\api\index.html:71
+msgid "Texnika"
+msgstr "Technique"
+
+#: .\templates\api\index.html:73
+msgid "Kiyimlar"
+msgstr "Clothes"
+
+#: .\templates\api\index.html:75
+msgid "Mashina"
+msgstr "Car"
+
+#: .\templates\api\index.html:77
+msgid "Oziq-ovqat"
+msgstr "Food"
+
+#: .\templates\api\index.html:79
+msgid "Ish"
+msgstr "Work"
+
+#: .\templates\api\index.html:84
+msgid "iPhone to'plamlari"
+msgstr "iPhone kits"
+
+#: .\templates\api\index.html:90
+msgid "iPhone 17e"
+msgstr "iPhone 17e"
+
+#: .\templates\api\index.html:91
+msgid ""
+"iPhone 17e — Applening 2026-yilda taqdim etilgan “byudjet” modeli bo‘lib, u "
+"6.1 dyuymli Super Retina XDR OLED displey, A19 chip va 48 MP kamera tizimi "
+"bilan jihozlangan."
+msgstr ""
+"iPhone 17e — Apple’s budget model introduced in 2026, equipped with a "
+"6.1‑inch Super Retina XDR OLED display, A19 chip, and a 48 MP camera system."
+
+#: .\templates\api\index.html:104
+msgid "iPhone 16"
+msgstr "iPhone 16"
+
+#: .\templates\api\index.html:105
+msgid ""
+"iPhone 16 — Apple’ning 2024-yilda taqdim etilgan flagman modeli bo‘lib, u "
+"6.1 dyuymli Super Retina XDR OLED displey, A18 chip va 48 MP kamera tizimi "
+"bilan jihozlangan."
+msgstr ""
+"iPhone 16 — Apple’s flagship model introduced in 2024, featuring a 6.1‑inch "
+"Super Retina XDR OLED display, A18 chip, and a 48 MP camera system."
+
+#: .\templates\api\index.html:118 .\templates\api\index.html:134
+msgid "iPhone 17 Pro Max"
+msgstr "iPhone 17 Pro Max"
+
+#: .\templates\api\index.html:119
+msgid ""
+"iPhone 17 Pro Max — Applening eng so‘nggi flagman modeli bo‘lib, u 6.9 "
+"dyuymli Super Retina XDR displey, A19 Pro chip va 48 MP kamera tizimi bilan "
+"jihozlangan."
+msgstr ""
+"iPhone 17 Pro Max — Apple’s latest flagship model, equipped with a 6.9‑inch "
+"Super Retina XDR display, A19 Pro chip, and a 48 MP camera system."
+
+#: .\templates\api\index.html:135
+msgid ""
+"iPhone 17 Pro Max Silver — Applening eng so‘nggi flagman modeli bo‘lib, u "
+"6.9 dyuymli Super Retina XDR displey, A19 Pro chip va 48 MP kamera tizimi "
+"bilan jihozlangan. "
+msgstr ""
+"iPhone 17 Pro Max Silver — Apple’s latest flagship model, featuring a "
+"6.9‑inch Super Retina XDR display, A19 Pro chip, and a 48 MP camera system."
+
+#: .\templates\api\index.html:148
+msgid "iPhone 14 Pro"
+msgstr "iPhone 14 Pro"
+
+#: .\templates\api\index.html:149
+msgid ""
+"iPhone 14 Pro — Applening 2022-yilda taqdim etilgan flagman modeli bo‘lib, u "
+"6.1 dyuymli Super Retina XDR displey, A16 Bionic chip va 48 MP kamera tizimi "
+"bilan jihozlangan."
+msgstr ""
+"iPhone 14 Pro — Apple’s flagship model introduced in 2022, equipped with a "
+"6.1‑inch Super Retina XDR display, A16 Bionic chip, and a 48 MP camera "
+"system."
+
+#: .\templates\api\index.html:162
+msgid "iPhone 15"
+msgstr "iPhone 15"
+
+#: .\templates\api\index.html:163
+msgid ""
+"iPhone 15 — Applening 2023-yilda taqdim etilgan flagman modeli bo‘lib, u 6.1 "
+"dyuymli Super Retina XDR displey, A16 Bionic chip va 48 MP kamera tizimi "
+"bilan jihozlangan."
+msgstr ""
+"iPhone 15 — Apple’s flagship model introduced in 2023, featuring a 6.1‑inch "
+"Super Retina XDR display, A16 Bionic chip, and a 48 MP camera system."
+
+#: .\templates\api\index.html:178
+msgid "Bizning hamkorlar"
+msgstr "Our partners"
+
+#: .\templates\api\index.html:195
+msgid "Samsung to'plamlari"
+msgstr "Samsung kits"
+
+#: .\templates\api\index.html:201
+msgid "Samsung Galaxy S24 Ultra"
+msgstr "Samsung Galaxy S24 Ultra"
+
+#: .\templates\api\index.html:202
+msgid ""
+"Samsung Galaxy S24 Ultra — Samsung’ning 2024-yilda taqdim etilgan flagman "
+"modeli bo‘lib, u 6.8 dyuymli Dynamic AMOLED 2X displey, Snapdragon 8 Gen 3 "
+"chip va 200 MP kamera tizimi bilan jihozlangan."
+msgstr ""
+"Samsung Galaxy S24 Ultra — Samsung’s flagship model introduced in 2024, "
+"equipped with a 6.8‑inch Dynamic AMOLED 2X display, Snapdragon 8 Gen 3 chip, "
+"and a 200 MP camera system."
+
+#: .\templates\api\index.html:215
+msgid "Samsung Galaxy S26 Ultra"
+msgstr "Samsung Galaxy S26 Ultra"
+
+#: .\templates\api\index.html:216
+msgid ""
+"Samsung Galaxy S26 Ultra — Samsung’ning 2026-yilda taqdim etilgan eng kuchli "
+"flagman modeli bo‘lib, u 6.9 dyuymli Dynamic AMOLED 2X displey, Snapdragon 8 "
+"Elite Gen 5 chip va 200 MP asosiy kamera tizimi bilan jihozlangan."
+msgstr ""
+"Samsung Galaxy S26 Ultra — Samsung’s most powerful flagship model introduced "
+"in 2026, featuring a 6.9‑inch Dynamic AMOLED 2X display, Snapdragon 8 Elite "
+"Gen 5 chip, and a 200 MP main camera system."
+
+#: .\templates\api\index.html:229
+msgid "Samsung Galaxy A35"
+msgstr "Samsung Galaxy A35"
+
+#: .\templates\api\index.html:230
+msgid ""
+"Samsung Galaxy A35 — Samsung’ning 2024-yilda taqdim etilgan o‘rta narx "
+"segmentidagi modeli bo‘lib, u 6.6 dyuymli Super AMOLED displey, Exynos 1380 "
+"chip va 50 MP kamera tizimi bilan jihozlangan."
+msgstr ""
+"Samsung Galaxy A35 — Samsung’s mid‑range model introduced in 2024, equipped "
+"with a 6.6‑inch Super AMOLED display, Exynos 1380 chip, and a 50 MP camera "
+"system."
+
+#: .\templates\api\index.html:243
+msgid "Samsung Galaxy Z Fold"
+msgstr "Samsung Galaxy Z Fold"
+
+#: .\templates\api\index.html:244
+msgid ""
+"Samsung Galaxy Z Fold — Samsung’ning bukiladigan ekranli flagman smartfonlar "
+"seriyasi bo‘lib, u innovatsion dizayn va kuchli texnik imkoniyatlari bilan "
+"ajralib turadi."
+msgstr ""
+"Samsung Galaxy Z Fold — Samsung’s foldable‑screen flagship smartphone "
+"series, distinguished by its innovative design and powerful technical "
+"capabilities."
+
+#: .\templates\api\index.html:257
+msgid "Samsung Galaxy S23"
+msgstr "Samsung Galaxy S23"
+
+#: .\templates\api\index.html:258
+msgid ""
+"Samsung Galaxy S23 — Samsung’ning 2023-yilda taqdim etilgan flagman modeli "
+"bo‘lib, u 6.1 dyuymli Dynamic AMOLED 2X displey, Snapdragon 8 Gen 2 chip va "
+"50 MP kamera tizimi bilan jihozlangan."
+msgstr ""
+"Samsung Galaxy S23 — Samsung’s flagship model introduced in 2023, featuring "
+"a 6.1‑inch Dynamic AMOLED 2X display, Snapdragon 8 Gen 2 chip, and a 50 MP "
+"camera system."
+
+#: .\templates\api\index.html:272
+msgid "Samsung Galaxy S26"
+msgstr "Samsung Galaxy S26"
+
+#: .\templates\api\index.html:273
+msgid ""
+"Samsung Galaxy S26 — Samsung’ning 2026-yilda taqdim etilgan yangi flagman "
+"modeli bo‘lib, u 6.3 dyuymli AMOLED displey, Snapdragon 8 Elite Gen 5 chip "
+"va Galaxy AI funksiyalari bilan jihozlangan."
+msgstr ""
+"Samsung Galaxy S26 — Samsung’s new flagship model introduced in 2026, "
+"equipped with a 6.3‑inch AMOLED display, Snapdragon 8 Elite Gen 5 chip, and "
+"Galaxy AI features."
+
+#: .\templates\api\index.html:292
+msgid "Bizda barcha mahsulotlar arzon"
+msgstr "All our products are cheap"
+
+#: .\templates\api\index.html:298
+msgid "Biz bilan bog'laning"
+msgstr "Contact us"
+
+#: .\templates\api\index.html:305
+msgid "Formani to'liq to'ldiring"
+msgstr "Fill out the form completely."
+
+#: .\templates\api\index.html:311
+msgid "Ism"
+msgstr "Name"
+
+#: .\templates\api\index.html:315
+msgid "Telefon nomer"
+msgstr "Phone number"
+
+#: .\templates\api\index.html:321
+msgid "Ma'lumot yozing"
+msgstr "Write information"
+
+#: .\templates\api\index.html:326
+msgid "Barcha ma'lumotlar to'g'rimi"
+msgstr "Is all the information correct?"
+
+#: .\templates\api\index.html:331
+msgid "Orqaga"
+msgstr "Back"
+
+#: .\templates\api\index.html:332
+msgid "Saqlash"
+msgstr "Save"
+
+#: .\templates\api\index.html:344
+msgid "Oxirgi yangiliklar!"
+msgstr "Latest news!"
+
+#: .\templates\api\index.html:345 .\templates\api\index.html:349
+#: .\templates\api\index.html:396 .\templates\api\index.html:403
+msgid ""
+"2026-yil boshidagi mahsulotlar va bozor yangiliklari texnologik "
+"innovatsiyalar, iste'mol tovarlari sifatining oshishi va sun'iy intellekt "
+"integratsiyasiga qaratilgan."
+msgstr ""
+"Products and market updates at the beginning of 2026 are focused on "
+"technological innovations, improvements in consumer goods quality, and the "
+"integration of artificial intelligence."
+
+#: .\templates\api\index.html:352
+msgid "Xabarni baholang"
+msgstr "Rate the message"
+
+#: .\templates\api\index.html:384
+msgid "Birinchi"
+msgstr "First"
+
+#: .\templates\api\index.html:387
+msgid "Ikkinchi"
+msgstr "Second"
+
+#: .\templates\api\index.html:410
+msgid "Biz haqimizda fikringiz "
+msgstr "What do you think about us?"
+
+#: .\templates\api\index.html:414
+msgid "Yaxshi"
+msgstr "Good"
+
+#: .\templates\api\index.html:420
+msgid "Yomon"
+msgstr "Bad"

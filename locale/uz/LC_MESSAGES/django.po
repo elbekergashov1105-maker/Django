@@ -1,0 +1,139 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-02 18:21+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\config\settings.py:111
+msgid "Uzbek"
+msgstr ""
+
+#: .\config\settings.py:112
+msgid "English"
+msgstr ""
+
+#: .\config\settings.py:113
+msgid "Russian"
+msgstr ""
+
+#: .\templates\api\home.html:25
+msgid "Postlarni ko'rish"
+msgstr "Postlarni ko'rish"
+
+#: .\templates\api\home.html:27
+msgid "Tizimdan chiqish"
+msgstr "Tizimdan chiqish"
+
+#: .\templates\api\home.html:29
+msgid "Tizimga kirish"
+msgstr "Tizimga kirish"
+
+#: .\templates\api\home.html:30
+msgid "Ro'yxatdan o'tish"
+msgstr "Ro'yxatdan o'tish"
+
+#: .\templates\api\index.html:88
+msgid ""
+"iPhone 17e — Applening 2026-yilda taqdim etilgan “byudjet” modeli bo‘lib, u "
+"6.1 dyuymli Super Retina XDR OLED displey, A19 chip va 48 MP kamera tizimi "
+"bilan jihozlangan."
+msgstr ""
+
+#: .\templates\api\index.html:102
+msgid ""
+"iPhone 16 — Apple’ning 2024-yilda taqdim etilgan flagman modeli bo‘lib, u "
+"6.1 dyuymli Super Retina XDR OLED displey, A18 chip va 48 MP kamera tizimi "
+"bilan jihozlangan."
+msgstr ""
+
+#: .\templates\api\index.html:116
+msgid ""
+"iPhone 17 Pro Max — Applening eng so‘nggi flagman modeli bo‘lib, u 6.9 "
+"dyuymli Super Retina XDR displey, A19 Pro chip va 48 MP kamera tizimi bilan "
+"jihozlangan."
+msgstr ""
+
+#: .\templates\api\index.html:132
+msgid ""
+"iPhone 17 Pro Max Silver — Applening eng so‘nggi flagman modeli bo‘lib, u "
+"6.9 dyuymli Super Retina XDR displey, A19 Pro chip va 48 MP kamera tizimi "
+"bilan jihozlangan. "
+msgstr ""
+
+#: .\templates\api\index.html:146
+msgid ""
+"iPhone 14 Pro — Applening 2022-yilda taqdim etilgan flagman modeli bo‘lib, u "
+"6.1 dyuymli Super Retina XDR displey, A16 Bionic chip va 48 MP kamera tizimi "
+"bilan jihozlangan."
+msgstr ""
+
+#: .\templates\api\index.html:160
+msgid ""
+"iPhone 15 — Applening 2023-yilda taqdim etilgan flagman modeli bo‘lib, u 6.1 "
+"dyuymli Super Retina XDR displey, A16 Bionic chip va 48 MP kamera tizimi "
+"bilan jihozlangan."
+msgstr ""
+
+#: .\templates\api\index.html:199
+msgid ""
+"Samsung Galaxy S24 Ultra — Samsung’ning 2024-yilda taqdim etilgan flagman "
+"modeli bo‘lib, u 6.8 dyuymli Dynamic AMOLED 2X displey, Snapdragon 8 Gen 3 "
+"chip va 200 MP kamera tizimi bilan jihozlangan."
+msgstr ""
+
+#: .\templates\api\index.html:213
+msgid ""
+"Samsung Galaxy S26 Ultra — Samsung’ning 2026-yilda taqdim etilgan eng kuchli "
+"flagman modeli bo‘lib, u 6.9 dyuymli Dynamic AMOLED 2X displey, Snapdragon 8 "
+"Elite Gen 5 chip va 200 MP asosiy kamera tizimi bilan jihozlangan."
+msgstr ""
+
+#: .\templates\api\index.html:227
+msgid ""
+"Samsung Galaxy A35 — Samsung’ning 2024-yilda taqdim etilgan o‘rta narx "
+"segmentidagi modeli bo‘lib, u 6.6 dyuymli Super AMOLED displey, Exynos 1380 "
+"chip va 50 MP kamera tizimi bilan jihozlangan."
+msgstr ""
+
+#: .\templates\api\index.html:241
+msgid ""
+"Samsung Galaxy Z Fold — Samsung’ning bukiladigan ekranli flagman smartfonlar "
+"seriyasi bo‘lib, u innovatsion dizayn va kuchli texnik imkoniyatlari bilan "
+"ajralib turadi."
+msgstr ""
+
+#: .\templates\api\index.html:255
+msgid ""
+"Samsung Galaxy S23 — Samsung’ning 2023-yilda taqdim etilgan flagman modeli "
+"bo‘lib, u 6.1 dyuymli Dynamic AMOLED 2X displey, Snapdragon 8 Gen 2 chip va "
+"50 MP kamera tizimi bilan jihozlangan."
+msgstr ""
+
+#: .\templates\api\index.html:270
+msgid ""
+"Samsung Galaxy S26 — Samsung’ning 2026-yilda taqdim etilgan yangi flagman "
+"modeli bo‘lib, u 6.3 dyuymli AMOLED displey, Snapdragon 8 Elite Gen 5 chip "
+"va Galaxy AI funksiyalari bilan jihozlangan."
+msgstr ""
+
+#: .\templates\api\index.html:342 .\templates\api\index.html:346
+#: .\templates\api\index.html:393 .\templates\api\index.html:400
+msgid ""
+"2026-yil boshidagi mahsulotlar va bozor yangiliklari texnologik "
+"innovatsiyalar, iste'mol tovarlari sifatining oshishi va sun'iy intellekt "
+"integratsiyasiga qaratilgan."
+msgstr ""

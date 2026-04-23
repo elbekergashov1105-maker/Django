@@ -1,0 +1,87 @@
+{% load i18n %}
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <title>Onlayn Telefon Do'koni</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #873535;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            margin: 20px;
+        }
+        .card {
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            width: 300px;
+            margin: 20px;
+            text-align: center;
+            padding: 15px;
+            transition: transform 0.2s;
+        }
+        .card:hover {
+            transform: scale(1.05);
+        }
+        .card img {
+            width: 100%;
+            border-radius: 10px;
+        }
+        .card h2 {
+            margin: 15px 0 10px;
+        }
+        .card p {
+            color: #555;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 10px;
+            background: #007BFF;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background: #51b32d;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Onlayn Telefon Do'koni</h1>
+        <p>Eng so‘nggi iPhone va Samsung modellari</p>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCouOgBUQ2aHhoDUOVbuhhbKhwwAvcA-a2g&s" alt="iPhone 14 Pro Max">
+            <h2>iPhone 14 Pro Max</h2>
+            <p> Apple iPhone 14 Pro Max. U Apple’ning 2022-yilda taqdim etilgan premium flagman modeli bo‘lib, old tomonda Dynamic Island interfeysi va katta 6.7 dyuymli Super Retina XDR OLED displeyga ega.</p>
+            <p><strong>Narxi:  15 000 000</strong></p>
+            <a href="#" class="btn">Savatga qo‘shish</a>
+        </div>
+
+        <div class="card">
+            <img src="https://minapi.beemarket.uz/prod-media/productImages/1718190705gygfkAVcwVvP.webp" alt="Samsung Galaxy S24 Ultra">
+            <h2>Samsung Galaxy S24 Ultra</h2>
+            <p>Samsung Galaxy S24 Ultra — bu Samsung’ning eng kuchli flagmani bo‘lib, u kuchli Snapdragon 8 Gen 3 chipi, 200MP kamera tizimi va yangi Galaxy AI funksiyalari bilan ajralib turadi.</p>
+            <p><strong>Narxi: 16 000 000</strong></p>
+            <a href="#" class="btn">Savatga qo‘shish</a>
+        </div>
+    </div>
+</body>
+</html>
